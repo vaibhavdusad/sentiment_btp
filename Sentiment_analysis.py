@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 # In[2]:
 
 
-consumer_key = 'X7kyc3HCZPlM1Vjk7jt0EFKwg'
+consumer_key = ''
 consumer_secret = 'DStvgODt3tuzeIY2nPnnuVYeux8XPsVpEyunuDfPohuQo8qSqp'
 access_token = '527534130-OgdG8JZDojdMEst0D0cOx0zaVX7PQ8d5Oov0UkVA'
 access_token_secret = '3xVdXJsBTufuQS4kMnOnHbH374AyrKVBJfEhTlp5Tgpfn'
